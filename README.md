@@ -3,12 +3,12 @@ LSHTM 2031 Introduction to Statistical Computing Module - Exploratory Data Analy
 
 ```
                                                                                 
-      _/_/      _/    _/_/_/      _/                          _/            
-   _/    _/  _/  _/        _/  _/_/            _/_/      _/_/_/    _/_/_/   
-      _/    _/  _/    _/_/      _/          _/_/_/_/  _/    _/  _/    _/    
-   _/      _/  _/        _/    _/          _/        _/    _/  _/    _/     
-_/_/_/_/    _/    _/_/_/      _/            _/_/_/    _/_/_/    _/_/_/      
-                                _/_/_/_/_/                                          
+      _/_/      _/_/    _/_/_/      _/                          _/            
+   _/    _/  _/    _/        _/  _/_/            _/_/      _/_/_/    _/_/_/   
+      _/    _/    _/    _/_/      _/          _/_/_/_/  _/    _/  _/    _/    
+   _/      _/    _/        _/    _/          _/        _/    _/  _/    _/     
+_/_/_/_/    _/_/    _/_/_/      _/            _/_/_/    _/_/_/    _/_/_/      
+                                  _/_/_/_/_/                                          
 ```
 
 Data on FEV1 contained in this repository is sourced from the [ALA](https://rdrr.io/rforge/ALA/) package. A simple data dictionary is as follows:
