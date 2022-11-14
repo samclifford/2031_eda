@@ -1,5 +1,5 @@
 # 2031_eda
-LSHTM 2031 Introduction to Statistical Computing Module - Exploratory Data Analysis
+LSHTM 2031 Introduction to Statistical Computing Module - Exploratory Data Analysis and Visualisation
 
 ```
                                                                                 
