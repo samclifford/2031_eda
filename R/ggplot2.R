@@ -8,7 +8,7 @@ library(tidyverse)
 
 # Activity 2
 # load in the data set, ensuring that `id` is read as a factor
-fev1 <- read_csv("fev1.csv", col_types = cols(id = 'factor'))
+fev1 <- read_csv("../data/fev1.csv", col_types = cols(id = 'factor'))
 
 # sample individuals who have more than 6 observations
 
